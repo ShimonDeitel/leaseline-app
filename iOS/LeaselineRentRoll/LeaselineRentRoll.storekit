@@ -1,0 +1,40 @@
+{
+  "identifier": "LeaselineRentRoll",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {},
+  "subscriptionGroups": [
+    {
+      "id": "21000000",
+      "localizations": [],
+      "name": "LeaselineRentRoll Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "$3.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "1",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Late-fee auto-calc and lease renewal reminders",
+              "displayName": "LeaselineRentRoll Pro Monthly",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.shimondeitel.leaseline.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "LeaselineRentRoll Pro Monthly",
+          "subscriptionGroupID": "21000000",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
